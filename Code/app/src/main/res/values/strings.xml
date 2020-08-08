@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yoga-app</string>
+    <string name="boat_pose"> Step 1: Sit the floor with your hands a little behind your hips\n
+                                       and your legs straight in front of you.\n\n
+                             Step 2: Lift your feet off the floor slowly so that the thigs are\n
+                                       angled about 45-50 degrees relative to the floor.\n\n
+                             Step 3: stretch you arms alongside the legs, parallel to each other\n
+                                      and the floor.\n\n
+                             Step 4: Keep the lower belly relatively flat and breathe easily.\n\n
+                             Step 5: Stay this position for about 50-60 seconds.\n\n</string>
+</resources>

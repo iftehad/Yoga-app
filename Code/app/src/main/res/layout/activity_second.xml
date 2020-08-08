@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_margin="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/boat_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/boat_pose"
+                android:text="Boat Pose(Paripurna Navasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:textStyle="normal" />
+            <Button
+                android:id="@+id/bow_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/bow_pose"
+                android:text="Bow Pose(Dhanurasana)"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:textStyle="normal" />
+            <Button
+                android:id="@+id/bridge_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/bridge_pose"
+                android:text="Bridge Pose(Setu Bandhasana)"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:textStyle="normal" />
+            <Button
+                android:id="@+id/chair_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/chair_pose"
+                android:layout_marginTop="20dp"
+                android:text="Chair pose(Utkatasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:textStyle="normal" />
+            <Button
+                android:id="@+id/child_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/child_pose"
+                android:text="Child Pose(Balasana)"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:textStyle="normal" />
+            <Button
+                android:id="@+id/cobblers_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/cobblers_pose"
+                android:text="Cobblers Pose(Banda Konasana)"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:textStyle="normal" />
+            <Button
+                android:id="@+id/cow_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/cow_pose"
+                android:text="Cow Pose(Bitilasama)"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:onClick="ImageButtonClicked"
+                android:layout_marginBottom="20dp"
+                android:textStyle="normal" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
