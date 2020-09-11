@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 public class SecondActivity extends AppCompatActivity
@@ -27,13 +28,17 @@ public class SecondActivity extends AppCompatActivity
 
    public void ImageButtonClicked(View view)
    {
-       int i=0;
-       for(i=0;i<=newArray.length;i++)
+
+       for(int i=0;i<newArray.length;i++)
        {
-           int value = i+1;
-           Intent intent = new Intent(SecondActivity.this,ThirdActivity.class);
-           intent.putExtra("value",String.valueOf(value));
+           if(view.getId()==newArray[i])
+           {
+           int value = i + 1;
+           Log.i("FIRST", String.valueOf(value));
+           Intent intent = new Intent(SecondActivity.this, ThirdActivity.class);
+           intent.putExtra("Value", String.valueOf(value));
            startActivity(intent);
+          }
        }
 
 

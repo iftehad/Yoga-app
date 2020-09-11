@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Yoga-app</string>
-    <string name="boat_pose"> Step 1: Sit the floor with your hands a little behind your hips\n
+    <string name="boat_pose">Step 1: Sit the floor with your hands a little behind your hips\n
                                        and your legs straight in front of you.\n\n
                              Step 2: Lift your feet off the floor slowly so that the thigs are\n
                                        angled about 45-50 degrees relative to the floor.\n\n
@@ -8,4 +8,50 @@
                                       and the floor.\n\n
                              Step 4: Keep the lower belly relatively flat and breathe easily.\n\n
                              Step 5: Stay this position for about 50-60 seconds.\n\n</string>
+    <string name="bow_pose"> Step 1: Lie on yur stomach with your feet hip-width apart your\n
+                             arms by this side of your body.\n\n
+                             Step 2: Take your hands backword,fold your knees and hold ankles\n
+                             with your hand.\n\n
+                             Step 3: Inhale,lift up your chest off the ground and pull your legs up\n
+                             and back.\n\n
+                             Step 4: Look straight ahead with a smile on your face.\n\n
+                             Step 5: After 20 seconds, as you exhale,gently bring yourlegs and chest\n
+                             to the ground.</string>
+    <string name="chair_pose">Step 1: Stand and place yur feet inner-hip width distance apart\n\n
+                              Step 2: Reach yours ars overhead while palms facing each other\n\n
+                              Step 3: Bend your knees so most of yours weight is in your heels.\n
+                                      keep your knees over your feet.\n\n
+                              Step 4: Lean forward slightly and draw your shoulder gently towards each
+                                      other and away from your ears\n\n
+                              Step 5: Stay in this position for about 60 seconds.</string>
+    <string name="cobbler_pose">Step 1: Sit and straight your legs out\n\n
+                                Step 2: Bend your knees as you pull your heels towards your pelvis.\n
+                                        press the soles of your feet close together and your knees drop to\n
+                                        the sides.\n\n
+                                Step 3: Bring your heels as close to yours pelvis as you can.\n\n
+                                Step 4: hold the big thumbs of your feet as the outer edges of your\n
+                                        feet must be pressed to the floor.\n\n
+                                Step 5: Stay in this position for about 60-70 seconds. </string>
+    <string name="cow_pose">Step 1: Put your hands knees on the floor in a tabletop position.\n\n
+                            Step 2: Make sure your wrists,elbows and shoulders are in line and\n
+                                    perpendicular to the floor.\n\n
+                            Step 3: Center your head in neutral position, eyes lookig at the floor.\n\n
+                            Step 4: Round your spine toward the ceiling while your exhale and make sure\n
+                                    everything is in position.\n\n
+                            Step 5: Inhale and come back neutral position.</string>
+    <string name="child_pose">Step 1: Start in a tabletop shape on your hands and knees\n\n
+                              Step 2: Release the tops of your feet to the floor and bring your\n
+                                      knees wider than yours hips, toes touching\n\n
+                              Step 3: Lower your hips toward your heels slowly\n\n
+                              Step 4: Walk your hands forward and rest your head on the floor\n\n
+                              Step 5: Take several slow breaths into your belly and chest and back to\n
+                                      previous position.</string>
+    <string name="bridge_pose">Step 1: Lie on your back and place your feet flat on the floor.\n\n
+                               Step 2: Bend your elbows 90 degrees so that your fingers are\n
+                                       pointing to the ceiling.\n\n
+                               Step 3: Inhale,press the back your shoulders and your feet\n
+                                       into the floor and lift your hips up.\n\n
+                               Step 4: Press the inner feet down actively,Lengthen your taibone\n
+                                       and keep your neck neutral.\n\n
+                               Step 5: Stay in this position for 50-60 seconds.</string>
 </resources>
